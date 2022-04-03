@@ -1,0 +1,4 @@
+- Hi, I’m @GunslingerSartre aka Peter
+- I’m interested in 3D printing, gardening, astronomy, automation, and finance.
+- I’m currently learning Java programming focused primarily on small applications.
+- How to reach me is via email at sartrelives@gmail.com
